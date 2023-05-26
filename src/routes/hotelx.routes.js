@@ -1,8 +1,6 @@
 import { Router } from "express";
 import { getHotelx } from "../controllers/hotelx.controllers.js";
 
-
-
 const hotelxRouter = Router()
 
 
